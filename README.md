@@ -1,14 +1,14 @@
                                                     ### Hi there 👋, I'm Kishore 
                                                     
                                                     
-                                                    Projects | Description 
-                                                    ---------|--------------
-                                                    FPS Hunter | 
-                                                    Chest System |
-                                                    Battle Tank |
-                                                    Snake 2D |
-                                                    Ninja Night |
-                                                    The Explorer |
+                                                    | Projects | Description |
+                                                    | ---------|-------------|
+                                                    | FPS Hunter |           |
+                                                    | Chest System |         |
+                                                    | Battle Tank |          |
+                                                    | Snake 2D |             |
+                                                    | Ninja Night |          |
+                                                    | The Explorer |         |
 
 
 
