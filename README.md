@@ -14,7 +14,7 @@ A Game Developer working on Outscal and done couple of Unity Projects
 |[The Explorer](https://github.com/Kishore-Karic/2D-Platformer-Game)|[Trailer](https://youtu.be/BN6FO8Z64Fo)|[Play](https://kishore-karic.itch.io/the-explorer)|
 
 # Connect With Me
-# [LinkedIn](https://www.linkedin.com/in/kishore-m-0859b822a/) [Email](mailto:kishorem.gamedeveloper@gmail.com) [Replit](https://replit.com/@KishoreKaric) [Itch.io](https://kishore-karic.itch.io/)
+# [LinkedIn](https://www.linkedin.com/in/kishore-m-0859b822a/) [Email](mailto:kishorem.gamedeveloper@gmail.com) [Portfolio](https://kirukishore89.wixsite.com/kishore-game-dev) [Replit](https://replit.com/@KishoreKaric) [Itch.io](https://kishore-karic.itch.io/)
 
 # GitHub Stats
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kishore-Karic&show_icons=true&locale=en" alt="Kishore-Karic" /></p> <br/>
