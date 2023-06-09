@@ -3,7 +3,7 @@
 A Game Developer working on Outscal and done couple of Unity Projects
 
 # Projects
-|Projects Repository|Gameplay Trailor|Playable Link|
+|Projects Repository|Gameplay Trailer|Playable Link|
 |-------------------|----------------|-------------|
 |[Dispersion](https://github.com/Kishore-Karic/Dispersion)|[Trailer](https://youtu.be/QRd7MDeFOuU)|[Play](https://kishore-karic.itch.io/dispersion)|
 |[Chest Royale](https://github.com/Kishore-Karic/Clash-Royale-Chest-System)|[Trailer](https://youtu.be/QyO1bi01ajc)|[Play](https://kishore-karic.itch.io/chestroyale)|
