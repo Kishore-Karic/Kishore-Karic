@@ -5,6 +5,7 @@ A Game Developer working on Outscal and done couple of Unity Projects
 # Projects
 |Projects Repository|Gameplay Trailer|Playable Link|
 |-------------------|----------------|-------------|
+|[Simple Shooty](https://github.com/Kishore-Karic/Simple-Shooty)|[Trailer](https://youtu.be/6Jqew3rbReQ)|[Play](https://kishore-karic.itch.io/simple-shooty)|
 |[Dispersion](https://github.com/Kishore-Karic/Dispersion)|[Trailer](https://youtu.be/QRd7MDeFOuU)|[Play](https://kishore-karic.itch.io/dispersion)|
 |[Chest Royale](https://github.com/Kishore-Karic/Clash-Royale-Chest-System)|[Trailer](https://youtu.be/QyO1bi01ajc)|[Play](https://kishore-karic.itch.io/chestroyale)|
 |[FPS Hunter](https://github.com/Kishore-Karic/First-Person-Hunter)|[Trailer](https://youtu.be/ifoNC3R2pf4)|[Play](https://kishore-karic.itch.io/fps-hunter)|
